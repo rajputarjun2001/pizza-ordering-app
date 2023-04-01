@@ -1,0 +1,30 @@
+footer{
+    margin-top: 10vh;
+    
+}
+.landing_container{
+  background-image: url("./Image/hero-pizza.png");
+  background-position: 50vw;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 71.5vh;
+  
+}
+.heading{
+  padding-left: 10vw;
+  padding-top: 25vh;
+}
+.landing_title1{
+  font-size: 2rem;
+  font-family: "Amatic SC", sans-serif
+}
+.landing_title2{
+  font-size: 4rem;
+}
+.order_btn{
+  border-radius: 15%;
+  background-color: black;
+}
+.order_btn:hover{
+  background-color: #ED7014;
+}

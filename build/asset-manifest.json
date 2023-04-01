@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2a92410.css",
+    "main.js": "/static/js/main.78f81b7e.js",
+    "static/media/hero-pizza.png": "/static/media/hero-pizza.fbdbc860070e3a594708.png",
+    "static/media/favicon.ico": "/static/media/favicon.cf8fdcbba7a89b895bf6.ico",
+    "index.html": "/index.html",
+    "main.d2a92410.css.map": "/static/css/main.d2a92410.css.map",
+    "main.78f81b7e.js.map": "/static/js/main.78f81b7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2a92410.css",
+    "static/js/main.78f81b7e.js"
+  ]
+}
